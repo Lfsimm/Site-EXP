@@ -1,6 +1,7 @@
 body {
   margin: 0;
   height: 100vh;
+  background: linear-gradient(to top, #17c4f4, #ffffff);
 }
 
 .container {
@@ -78,6 +79,7 @@ menu {
     align-self: center;
     padding: 20px;
     display: flex;
+    color: #074254;
     flex-direction: column;
     width: 40%;
 }
